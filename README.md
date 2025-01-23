@@ -11,6 +11,7 @@ Output
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -19,4 +20,7 @@ This is added in main just
 =======
 
 This is just for demo.
+>>>>>>> demo
+=======
+This is just for demo. A new line for demo.
 >>>>>>> demo
