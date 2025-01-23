@@ -8,3 +8,6 @@ Input:
 Output
    simple interest = p*t*r
    sample added in demo branch
+
+
+This is added in main just
