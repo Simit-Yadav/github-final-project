@@ -10,4 +10,13 @@ Output
    sample added in demo branch
 
 
+
+
+
+
+<<<<<<< HEAD
 This is added in main just
+=======
+
+This is just for demo.
+>>>>>>> demo
